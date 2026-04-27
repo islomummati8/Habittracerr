@@ -54,4 +54,4 @@ If you have any questions or suggestions regarding this Privacy Policy, please c
 
 ---
 
-*Thank you for trusting Habit Tracker with your data.*
+*Thank you for trusting Habit Tracker with your  data.*
